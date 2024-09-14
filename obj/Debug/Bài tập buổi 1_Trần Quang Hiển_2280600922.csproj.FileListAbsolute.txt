@@ -1,0 +1,7 @@
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\bin\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.exe.config
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\bin\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.exe
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\bin\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.pdb
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\obj\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.csproj.AssemblyReference.cache
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\obj\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.csproj.CoreCompileInputs.cache
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\obj\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.exe
+D:\hoc\bai tap moi truong windows\Bài tập buổi 1_Trần Quang Hiển_2280600922\obj\Debug\Bài tập buổi 1_Trần Quang Hiển_2280600922.pdb
